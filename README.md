@@ -72,7 +72,7 @@ This repository contains the data processing pipeline, statistical analysis scri
 ├── docs/
 │   └── Presentazione_Tesi_MattiaDallaFontana.pptx
     └── OCC - Questionario.docx.pptx  
-
+```
 
 
 ---
@@ -85,12 +85,14 @@ Run scripts/02_eda.R for descriptive and inferential statistics and visualizatio
 Run scripts/03_survey_cluster_analysis_rq2.R to analysis survey data and generate the hierarchical clustering model.
 
 Data Confidentiality Note: Due to Non-Disclosure Agreements regarding startup financial data and proprietary scoring from Ocean Community, the data/raw/ directory is excluded from this public repository. The scripts can be reviewed for methodological soundness, but will require the original datasets to run locally.
-
+```
+```
 ---
 
 ## Citation & Acknowledgments
 Special thanks to Ocean Community (Lisbon) and founder Susanne Wedin-Schildt for providing access to primary application data and collaborating on the survey instrument during my research internship.
-
+```
+```
 ---
 
 ## Author & Contact
@@ -98,3 +100,4 @@ Mattia Dalla Fontana
 MSc in Management and Sustainability
 
 LinkedIn: www.linkedin.com/in/mattia-dalla-fontana
+```
