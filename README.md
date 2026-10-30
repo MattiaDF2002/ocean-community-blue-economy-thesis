@@ -75,7 +75,9 @@ This repository contains the data processing pipeline, statistical analysis scri
 
 
 
-Prerequisites & Usage
+---
+
+## Prerequisites & Usage
 To reproduce the analysis, ensure you have R (>= 4.0.0) installed along with the following packages:dplyr, readr, stringr, ggplot2, factoextra
 Execution Order:
 Run scripts/01_data_preprocessing.R to clean and standardize the raw data.
@@ -84,10 +86,14 @@ Run scripts/03_survey_cluster_analysis_rq2.R to analysis survey data and generat
 
 Data Confidentiality Note: Due to Non-Disclosure Agreements regarding startup financial data and proprietary scoring from Ocean Community, the data/raw/ directory is excluded from this public repository. The scripts can be reviewed for methodological soundness, but will require the original datasets to run locally.
 
-Citation & Acknowledgments
+---
+
+## Citation & Acknowledgments
 Special thanks to Ocean Community (Lisbon) and founder Susanne Wedin-Schildt for providing access to primary application data and collaborating on the survey instrument during my research internship.
 
-Author & Contact
+---
+
+## Author & Contact
 Mattia Dalla Fontana
 MSc in Management and Sustainability
 
