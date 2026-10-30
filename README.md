@@ -58,20 +58,18 @@ This repository contains the data processing pipeline, statistical analysis scri
 ## 🛠️ Repository Structure
 
 ```text
-.
 ├── README.md                   # Main project documentation
-├── LICENSE                     # Open source license
 ├── .gitignore                  # Git ignore rules for R binaries
-├── data/
-│   ├── raw/                    # Application pipeline (F6S) & Survey data
-│   └── processed/              # Cleaned & standardized master datasets
-├── scripts/
-│   ├── 01_data_preprocessing.R  # Currency conversion, cleaning, feature engineering
-│   ├── 02_eda.R   # Descriptive stats, Welch t-tests, Monte Carlo Chi-Square
-│   └── 03_survey_cluster_analysis_rq2.R# Z-score scaling, Euclidean distance, Ward.D2 clustering
+├── data/                       # 🔒 [NOT UPLOADED DUE TO NDA] - Raw & processed datasets
 ├── docs/
-│   └── Presentazione_Tesi_MattiaDallaFontana.pptx
-    └── OCC - Questionario.docx.pptx  
+│   ├── Presentazione_Tesi_Dalla_Fontana.pdf
+└── scripts/
+    ├── Analisi_Survey.R
+    ├── CLUSTER_ANALYSIS.R
+    ├── EDA_2024.R
+    ├── EDA_2025.R
+    ├── EDA_2026.R
+    └── EDA_Master.R
 ```
 
 
