@@ -1,0 +1,23 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignorare i dati raw se contengono PII o dati sensibili non divulgabili
+# Togli il cancelletto alla riga sotto se non puoi pubblicare i CSV originali
+# data/raw/*.csv
